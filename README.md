@@ -1,4 +1,6 @@
-# SQL Exercises Thomas Dunn
+# SQL Exercises
+
+### Thomas Dunn
 
 
 ## Day 1: SQL Basics & Advanced SQL Queries
@@ -15,24 +17,24 @@
 
  - [X] Install Homebrew by following instructions listed here
  - [X] Install Postgres by following instructions listed here
- - [ ] Learn the psql command line tool by working through the following tutorials
- - [ ] complete the tutorial for createdb here
- - [ ] complete the tutorial for selecting the database here
- - [ ] complete the tutorial for dropping the database here
- - [ ] complete the tutorial for create table here
- - [ ] complete the tutorial for drop table here
- - [ ] complete the tutorial for schema here
- - [ ] complete the tutorial for insert here
- - [ ] complete the tutorial for select here
- - [ ] complete the tutorial for expressions here
- - [ ] complete the tutorial for where clause here
- - [ ] complete the tutorial for and and or operators here
- - [ ] complete the tutorial for update queries here
- - [ ] complete the tutorial for delete queries here
- - [ ] complete the tutorial for the like clause here
- - [ ] complete the tutorial for the limit clause here
- - [ ] complete the tutorial for the order by clause here
- - [ ] complete the tutorial for the group by clause here
+ - [X] Learn the psql command line tool by working through the following tutorials
+ - [X] complete the tutorial for createdb here
+ - [X] complete the tutorial for selecting the database here
+ - [ X] complete the tutorial for dropping the database here
+ - [X ] complete the tutorial for create table here
+ - [ X] complete the tutorial for drop table here
+ - [X ] complete the tutorial for schema here
+ - [X ] complete the tutorial for insert here
+ - [X ] complete the tutorial for select here
+ - [X ] complete the tutorial for expressions here
+ - [X ] complete the tutorial for where clause here
+ - [X ] complete the tutorial for and and or operators here
+ - [X ] complete the tutorial for update queries here
+ - [X ] complete the tutorial for delete queries here
+ - [X] complete the tutorial for the like clause here
+ - [X] complete the tutorial for the limit clause here
+ - [X] complete the tutorial for the order by clause here
+ - [X] complete the tutorial for the group by clause here
 
 ## Day 4: Mini Project & Exercises
 
@@ -44,12 +46,12 @@
     - [X] sql/05-load-table-friend.sql
     - [X] sql/06-load-table-like.sql
     - [X] sql/07-query-friends-gabriel.sql
-    - [ ] sql/08-query-likes-grade-two-or-more.sql
-    - [ ] sql/09-mutual-likes.sql
-    - [ ] sql/10-not-liked.sql
-    - [ ] sql/11-liked-but-does-not-like.sql
+    - [X] sql/08-query-likes-grade-two-or-more.sql
+    - [X] sql/09-mutual-likes.sql
+    - [X] sql/10-not-liked.sql
+    - [X] sql/11-liked-but-does-not-like.sql
     - [ ] sql/12-find-friends-in-common.sql
-    - [ ] sql/13-popular-students.sql
+    - [X] sql/13-popular-students.sql
 
 ## Day 5: Exercises on SQL Bolt
 
@@ -70,7 +72,7 @@
 
 Exercises to help exercise the SQL muscles.
 
-Base repository for the [core-sql](http://jsdev.learnersguild.org/goals/178) goal.
+Base repository for the [core-sql](http://jsdev.learnersg uild.org/goals/178) goal.
 
 ## Getting Started
 
